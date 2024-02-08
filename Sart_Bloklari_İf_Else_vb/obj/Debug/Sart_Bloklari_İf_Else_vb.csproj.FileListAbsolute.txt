@@ -1,0 +1,8 @@
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Sart_Bloklari_İf_Else_vb\bin\Debug\Sart_Bloklari_İf_Else_vb.exe.config
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Sart_Bloklari_İf_Else_vb\bin\Debug\Sart_Bloklari_İf_Else_vb.exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Sart_Bloklari_İf_Else_vb\bin\Debug\Sart_Bloklari_İf_Else_vb.pdb
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Sart_Bloklari_İf_Else_vb\obj\Debug\Sart_Bloklari_İf_Else_vb.csproj.AssemblyReference.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Sart_Bloklari_İf_Else_vb\obj\Debug\Sart_Bloklari_İf_Else_vb.csproj.SuggestedBindingRedirects.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Sart_Bloklari_İf_Else_vb\obj\Debug\Sart_Bloklari_İf_Else_vb.csproj.CoreCompileInputs.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Sart_Bloklari_İf_Else_vb\obj\Debug\Sart_Bloklari_İf_Else_vb.exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Sart_Bloklari_İf_Else_vb\obj\Debug\Sart_Bloklari_İf_Else_vb.pdb

@@ -1,0 +1,7 @@
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Collections(Koleksiyonlar)\bin\Debug\Collections(Koleksiyonlar).exe.config
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Collections(Koleksiyonlar)\bin\Debug\Collections(Koleksiyonlar).exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Collections(Koleksiyonlar)\bin\Debug\Collections(Koleksiyonlar).pdb
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Collections(Koleksiyonlar)\obj\Debug\Collections(Koleksiyonlar).csproj.AssemblyReference.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Collections(Koleksiyonlar)\obj\Debug\Collections(Koleksiyonlar).csproj.CoreCompileInputs.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Collections(Koleksiyonlar)\obj\Debug\Collections(Koleksiyonlar).exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Collections(Koleksiyonlar)\obj\Debug\Collections(Koleksiyonlar).pdb

@@ -1,0 +1,10 @@
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Dama_Tahtası_Uygulaması\bin\Debug\Dama_Tahtası_Uygulaması.exe.config
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Dama_Tahtası_Uygulaması\bin\Debug\Dama_Tahtası_Uygulaması.exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Dama_Tahtası_Uygulaması\bin\Debug\Dama_Tahtası_Uygulaması.pdb
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Dama_Tahtası_Uygulaması\obj\Debug\Dama_Tahtası_Uygulaması.csproj.AssemblyReference.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Dama_Tahtası_Uygulaması\obj\Debug\Dama_Tahtası_Uygulaması.Form1.resources
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Dama_Tahtası_Uygulaması\obj\Debug\Dama_Tahtası_Uygulaması.Properties.Resources.resources
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Dama_Tahtası_Uygulaması\obj\Debug\Dama_Tahtası_Uygulaması.csproj.GenerateResource.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Dama_Tahtası_Uygulaması\obj\Debug\Dama_Tahtası_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Dama_Tahtası_Uygulaması\obj\Debug\Dama_Tahtası_Uygulaması.exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Dama_Tahtası_Uygulaması\obj\Debug\Dama_Tahtası_Uygulaması.pdb

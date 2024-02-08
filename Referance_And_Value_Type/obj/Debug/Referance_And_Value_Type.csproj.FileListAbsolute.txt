@@ -1,0 +1,7 @@
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Referance_And_Value_Type\bin\Debug\Referance_And_Value_Type.exe.config
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Referance_And_Value_Type\bin\Debug\Referance_And_Value_Type.exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Referance_And_Value_Type\bin\Debug\Referance_And_Value_Type.pdb
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Referance_And_Value_Type\obj\Debug\Referance_And_Value_Type.csproj.AssemblyReference.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Referance_And_Value_Type\obj\Debug\Referance_And_Value_Type.csproj.CoreCompileInputs.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Referance_And_Value_Type\obj\Debug\Referance_And_Value_Type.exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Referance_And_Value_Type\obj\Debug\Referance_And_Value_Type.pdb

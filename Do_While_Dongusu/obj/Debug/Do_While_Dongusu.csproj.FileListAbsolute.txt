@@ -1,0 +1,8 @@
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Do_While_Dongusu\bin\Debug\Do_While_Dongusu.exe.config
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Do_While_Dongusu\bin\Debug\Do_While_Dongusu.exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Do_While_Dongusu\bin\Debug\Do_While_Dongusu.pdb
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Do_While_Dongusu\obj\Debug\Do_While_Dongusu.csproj.AssemblyReference.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Do_While_Dongusu\obj\Debug\Do_While_Dongusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Do_While_Dongusu\obj\Debug\Do_While_Dongusu.csproj.CoreCompileInputs.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Do_While_Dongusu\obj\Debug\Do_While_Dongusu.exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Do_While_Dongusu\obj\Debug\Do_While_Dongusu.pdb

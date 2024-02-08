@@ -1,0 +1,8 @@
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\İnharitance(Kalıtım)\obj\Debug\İnharitance(Kalıtım).csproj.AssemblyReference.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\İnharitance(Kalıtım)\obj\Debug\İnharitance(Kalıtım).csproj.SuggestedBindingRedirects.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\İnharitance(Kalıtım)\obj\Debug\İnharitance(Kalıtım).csproj.CoreCompileInputs.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\İnharitance(Kalıtım)\bin\Debug\İnharitance(Kalıtım).exe.config
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\İnharitance(Kalıtım)\bin\Debug\İnharitance(Kalıtım).exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\İnharitance(Kalıtım)\bin\Debug\İnharitance(Kalıtım).pdb
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\İnharitance(Kalıtım)\obj\Debug\İnharitance(Kalıtım).exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\İnharitance(Kalıtım)\obj\Debug\İnharitance(Kalıtım).pdb

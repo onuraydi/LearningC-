@@ -1,0 +1,8 @@
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Veri_Rurleri_Ve_Degiskenler\bin\Debug\Veri_Rurleri_Ve_Degiskenler.exe.config
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Veri_Rurleri_Ve_Degiskenler\bin\Debug\Veri_Rurleri_Ve_Degiskenler.exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Veri_Rurleri_Ve_Degiskenler\bin\Debug\Veri_Rurleri_Ve_Degiskenler.pdb
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Veri_Rurleri_Ve_Degiskenler\obj\Debug\Veri_Rurleri_Ve_Degiskenler.csproj.AssemblyReference.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Veri_Rurleri_Ve_Degiskenler\obj\Debug\Veri_Rurleri_Ve_Degiskenler.csproj.SuggestedBindingRedirects.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Veri_Rurleri_Ve_Degiskenler\obj\Debug\Veri_Rurleri_Ve_Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Veri_Rurleri_Ve_Degiskenler\obj\Debug\Veri_Rurleri_Ve_Degiskenler.exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Veri_Rurleri_Ve_Degiskenler\obj\Debug\Veri_Rurleri_Ve_Degiskenler.pdb

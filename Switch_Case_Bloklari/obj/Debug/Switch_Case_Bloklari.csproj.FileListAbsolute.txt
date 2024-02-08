@@ -1,0 +1,8 @@
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Switch_Case_Bloklari\obj\Debug\Switch_Case_Bloklari.csproj.AssemblyReference.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Switch_Case_Bloklari\obj\Debug\Switch_Case_Bloklari.csproj.SuggestedBindingRedirects.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Switch_Case_Bloklari\obj\Debug\Switch_Case_Bloklari.csproj.CoreCompileInputs.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Switch_Case_Bloklari\bin\Debug\Switch_Case_Bloklari.exe.config
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Switch_Case_Bloklari\bin\Debug\Switch_Case_Bloklari.exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Switch_Case_Bloklari\bin\Debug\Switch_Case_Bloklari.pdb
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Switch_Case_Bloklari\obj\Debug\Switch_Case_Bloklari.exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Switch_Case_Bloklari\obj\Debug\Switch_Case_Bloklari.pdb

@@ -1,0 +1,15 @@
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Entity_Framework_Demo\bin\Debug\Entity_Framework_Demo.exe.config
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Entity_Framework_Demo\bin\Debug\Entity_Framework_Demo.exe
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Entity_Framework_Demo\bin\Debug\Entity_Framework_Demo.pdb
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Entity_Framework_Demo\bin\Debug\EntityFramework.dll
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Entity_Framework_Demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Entity_Framework_Demo\bin\Debug\EntityFramework.xml
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Entity_Framework_Demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Entity_Framework_Demo\obj\Debug\Entity_Framework_Demo.csproj.AssemblyReference.cache
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Entity_Framework_Demo\obj\Debug\Entity_Framework_Demo.Form1.resources
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Entity_Framework_Demo\obj\Debug\Entity_Framework_Demo.Properties.Resources.resources
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Entity_Framework_Demo\obj\Debug\Entity_Framework_Demo.csproj.GenerateResource.cache
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Entity_Framework_Demo\obj\Debug\Entity_Framework_Demo.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Entity_Framework_Demo\obj\Debug\Entity_Framework_Demo.csproj.CopyComplete
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Entity_Framework_Demo\obj\Debug\Entity_Framework_Demo.exe
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Entity_Framework_Demo\obj\Debug\Entity_Framework_Demo.pdb

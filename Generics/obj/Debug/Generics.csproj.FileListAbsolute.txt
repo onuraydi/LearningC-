@@ -1,0 +1,7 @@
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Generics\bin\Debug\Generics.exe.config
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Generics\bin\Debug\Generics.exe
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Generics\bin\Debug\Generics.pdb
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Generics\obj\Debug\Generics.exe
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Generics\obj\Debug\Generics.pdb

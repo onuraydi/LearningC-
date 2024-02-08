@@ -1,0 +1,7 @@
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Constructures(Yapıcı_Metotlar)\bin\Debug\Constructures(Yapıcı_Metotlar).exe.config
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Constructures(Yapıcı_Metotlar)\bin\Debug\Constructures(Yapıcı_Metotlar).exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Constructures(Yapıcı_Metotlar)\bin\Debug\Constructures(Yapıcı_Metotlar).pdb
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Constructures(Yapıcı_Metotlar)\obj\Debug\Constructures(Yapıcı_Metotlar).csproj.AssemblyReference.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Constructures(Yapıcı_Metotlar)\obj\Debug\Constructures(Yapıcı_Metotlar).csproj.CoreCompileInputs.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Constructures(Yapıcı_Metotlar)\obj\Debug\Constructures(Yapıcı_Metotlar).exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Constructures(Yapıcı_Metotlar)\obj\Debug\Constructures(Yapıcı_Metotlar).pdb

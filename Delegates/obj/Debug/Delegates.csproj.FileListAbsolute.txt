@@ -1,0 +1,7 @@
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Delegates\bin\Debug\Delegates.exe
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Delegates\bin\Debug\Delegates.pdb
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Delegates\obj\Debug\Delegates.exe
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Delegates\obj\Debug\Delegates.pdb

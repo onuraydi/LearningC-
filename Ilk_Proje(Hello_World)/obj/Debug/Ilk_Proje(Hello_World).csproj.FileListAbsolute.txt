@@ -1,0 +1,8 @@
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Ilk_Proje(Hello_World)\bin\Debug\Ilk_Proje(Hello_World).exe.config
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Ilk_Proje(Hello_World)\bin\Debug\Ilk_Proje(Hello_World).exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Ilk_Proje(Hello_World)\bin\Debug\Ilk_Proje(Hello_World).pdb
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Ilk_Proje(Hello_World)\obj\Debug\Ilk_Proje(Hello_World).csproj.AssemblyReference.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Ilk_Proje(Hello_World)\obj\Debug\Ilk_Proje(Hello_World).csproj.SuggestedBindingRedirects.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Ilk_Proje(Hello_World)\obj\Debug\Ilk_Proje(Hello_World).csproj.CoreCompileInputs.cache
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Ilk_Proje(Hello_World)\obj\Debug\Ilk_Proje(Hello_World).exe
+C:\Users\ONURA\OneDrive\Masaüstü\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\Solution1\Ilk_Proje(Hello_World)\obj\Debug\Ilk_Proje(Hello_World).pdb
